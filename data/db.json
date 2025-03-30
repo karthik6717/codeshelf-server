@@ -3,8 +3,8 @@
     {
       "id": "10001",
       "name": "Basics To Advanced In React",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Master React from the ground up with this comprehensive guide covering everything from JSX to advanced state management.",
+      "long_description": "This book takes you on a journey through React's core concepts and advanced patterns. You'll start with fundamentals like components and props, then progress to hooks, context API, and performance optimization. The second half covers real-world applications including authentication flows, testing strategies, and integrating with backend APIs. Packed with practical examples and best practices from industry experts.",
       "price": 29,
       "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10001.avif",
@@ -16,8 +16,8 @@
     {
       "id": "10002",
       "name": "Django Framework for Beginners",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Build robust web applications with Python using the Django framework - perfect for beginners.",
+      "long_description": "This beginner-friendly guide introduces Django's powerful features through hands-on projects. You'll learn to create models, views, templates, and forms while building a complete blog application. The book covers user authentication, ORM queries, REST APIs with Django REST framework, and deployment to production. Includes exercises and quizzes to reinforce your learning.",
       "price": 19,
       "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10002.avif",
@@ -29,8 +29,8 @@
     {
       "id": "10003",
       "name": "The Future of Design Systems",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Explore cutting-edge techniques for creating scalable, maintainable design systems.",
+      "long_description": "This forward-looking book examines how design systems are evolving with new technologies like AI and VR. Learn component-driven development, design tokens, cross-platform implementation, and governance strategies. Case studies from leading tech companies show how design systems improve collaboration between designers and developers while accelerating product development.",
       "price": 29,
       "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10003.avif",
@@ -42,8 +42,8 @@
     {
       "id": "10004",
       "name": "The Complete Guide to Backend Development",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Comprehensive resource covering all aspects of modern backend development from APIs to databases.",
+      "long_description": "This definitive guide covers backend development using multiple technologies including Node.js, Python, and Go. You'll learn REST and GraphQL API design, database modeling with SQL and NoSQL, authentication strategies, microservices architecture, caching, message queues, and deployment strategies. The book includes performance optimization techniques and security best practices used by senior backend engineers.",
       "price": 99,
       "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10004.avif",
@@ -55,8 +55,8 @@
     {
       "id": "10005",
       "name": "Build a Blockchain from Scratch in Go",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Practical guide to understanding blockchain technology by building your own implementation.",
+      "long_description": "Dive deep into blockchain fundamentals by creating a cryptocurrency from scratch using Go. This book explains cryptographic hashing, proof-of-work, peer-to-peer networking, and consensus algorithms through hands-on coding. You'll implement wallets, transactions, mining, and a distributed ledger while learning security considerations and performance tradeoffs in blockchain design.",
       "price": 19,
       "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10005.avif",
@@ -68,8 +68,8 @@
     {
       "id": "10006",
       "name": "Frontend Fastlane Plan With Projects",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Accelerate your frontend career with this project-based learning path covering modern frameworks.",
+      "long_description": "This intensive program includes 12 real-world projects using React, Vue, and Svelte. Each project focuses on different aspects like state management, performance optimization, accessibility, and testing. You'll build a portfolio including an e-commerce site, dashboard application, social media clone, and interactive data visualization. Includes career advice and interview preparation materials.",
       "price": 99,
       "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10006.avif",
@@ -81,8 +81,8 @@
     {
       "id": "10007",
       "name": "Master the Code Review",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Improve code quality and team collaboration through effective code review practices.",
+      "long_description": "This book teaches professional code review techniques used at top tech companies. Learn how to give constructive feedback, automate parts of the review process, balance thoroughness with velocity, and create a positive review culture. Includes checklists for different types of reviews (security, performance, readability) and case studies of common bugs caught in reviews.",
       "price": 19,
       "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10007.avif",
@@ -94,8 +94,8 @@
     {
       "id": "10008",
       "name": "JavaScript Basics To Advance With Shubham",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Comprehensive JavaScript course covering ES6+ features, patterns, and modern frameworks.",
+      "long_description": "Popular instructor Shubham takes you from JavaScript fundamentals to advanced concepts in this project-based book. Master closures, prototypes, async programming, and functional patterns. The advanced sections cover TypeScript, Web Workers, performance optimization, and framework internals. Includes coding challenges and interview question walkthroughs.",
       "price": 29,
       "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10008.avif",
@@ -107,8 +107,8 @@
     {
       "id": "10009",
       "name": "Python Deep Dive With Projects",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Advanced Python concepts explained through practical, real-world applications.",
+      "long_description": "Go beyond Python basics with this exploration of metaprogramming, concurrency, C extensions, and performance optimization. Projects include building a web scraper, data pipeline, CLI tool with rich interfaces, and microservice with async I/O. The book teaches Pythonic patterns and how to leverage Python's dynamic features effectively in large codebases.",
       "price": 29,
       "poster": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10009.avif",
@@ -120,8 +120,8 @@
     {
       "id": "10010",
       "name": "Mastering Software Technique",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Essential skills for writing clean, maintainable, and efficient code in any language.",
+      "long_description": "This language-agnostic book teaches fundamental software craftsmanship principles. Learn how to design modular architectures, write testable code, refactor effectively, debug complex systems, and optimize performance. The book presents timeless techniques through examples in multiple languages and interviews with senior engineers at FAANG companies.",
       "price": 19,
       "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10010.avif",
@@ -133,8 +133,8 @@
     {
       "id": "10011",
       "name": "Web Development Foundation",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Complete beginner's guide to modern web development from HTML/CSS to deployment.",
+      "long_description": "Start your web development journey with this zero-to-hero resource. The book begins with HTML5 semantics and CSS layout techniques, then introduces JavaScript fundamentals. You'll learn responsive design, accessibility, build tools, and deployment workflows. Final projects include building a portfolio site and full-stack application with user authentication.",
       "price": 29,
       "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10011.avif",
@@ -146,8 +146,8 @@
     {
       "id": "10012",
       "name": "Mastering Git and GitHub - A Practical Guide",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Become a Git power user with advanced version control techniques and workflows.",
+      "long_description": "This practical guide goes far beyond basic commit/push/pull. Learn interactive rebasing, cherry-picking, advanced merging strategies, and Git internals. The book covers team workflows like Gitflow, GitHub-specific features like Actions and Codespaces, and how to recover from common mistakes. Includes exercises to practice advanced scenarios in a safe environment.",
       "price": 9,
       "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10012.avif",
@@ -159,8 +159,8 @@
     {
       "id": "10013",
       "name": "Everything About React v16",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Comprehensive coverage of React 16 features including hooks, suspense, and concurrent mode.",
+      "long_description": "This book provides in-depth explanations of React 16's major innovations. Learn how hooks simplify stateful logic, how suspense improves data fetching, and how concurrent mode enables smoother UIs. The book compares class and function components, explores advanced hook patterns, and shows how to migrate existing codebases. Includes performance benchmarks and real-world adoption case studies.",
       "price": 19,
       "poster": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10013.avif",
@@ -172,8 +172,8 @@
     {
       "id": "10014",
       "name": "Diving Deep With Python 2.7",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Legacy Python 2.7 reference for maintaining and migrating older codebases.",
+      "long_description": "While Python 2 is officially unsupported, many enterprises still maintain critical Python 2.7 systems. This book covers Python 2.7's unique features, compatibility layers, and migration strategies to Python 3. Learn how to maintain security in unsupported environments, bridge Python 2 and 3 codebases, and incrementally modernize legacy applications.",
       "price": 19,
       "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10014.avif",
@@ -185,8 +185,8 @@
     {
       "id": "10015",
       "name": "Kickstart Your UI Design Career",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Beginner's guide to professional UI/UX design principles and tools.",
+      "long_description": "Transition into UI design with this practical introduction covering color theory, typography, layout, and interaction design. The book teaches industry-standard tools like Figma and Adobe XD while explaining design systems, prototyping, and developer handoff processes. Includes portfolio project ideas and interview tips for landing your first design role.",
       "price": 9,
       "poster": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10015.avif",
@@ -200,8 +200,8 @@
     {
       "id": "10004",
       "name": "The Complete Guide to Backend Development",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Comprehensive resource covering all aspects of modern backend development from APIs to databases.",
+      "long_description": "This definitive guide covers backend development using multiple technologies including Node.js, Python, and Go. You'll learn REST and GraphQL API design, database modeling with SQL and NoSQL, authentication strategies, microservices architecture, caching, message queues, and deployment strategies. The book includes performance optimization techniques and security best practices used by senior backend engineers.",
       "price": 99,
       "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10004.avif",
@@ -213,8 +213,8 @@
     {
       "id": "10006",
       "name": "Frontend Fastlane Plan With Projects",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Accelerate your frontend career with this project-based learning path covering modern frameworks.",
+      "long_description": "This intensive program includes 12 real-world projects using React, Vue, and Svelte. Each project focuses on different aspects like state management, performance optimization, accessibility, and testing. You'll build a portfolio including an e-commerce site, dashboard application, social media clone, and interactive data visualization. Includes career advice and interview preparation materials.",
       "price": 99,
       "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10006.avif",
@@ -226,8 +226,8 @@
     {
       "id": "10008",
       "name": "JavaScript Basics To Advance With Shubham",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "overview": "Comprehensive JavaScript course covering ES6+ features, patterns, and modern frameworks.",
+      "long_description": "Popular instructor Shubham takes you from JavaScript fundamentals to advanced concepts in this project-based book. Master closures, prototypes, async programming, and functional patterns. The advanced sections cover TypeScript, Web Workers, performance optimization, and framework internals. Includes coding challenges and interview question walkthroughs.",
       "price": 29,
       "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10008.avif",
@@ -243,8 +243,8 @@
         {
           "id": "10004",
           "name": "The Complete Guide to Backend Development",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "overview": "Comprehensive resource covering all aspects of modern backend development from APIs to databases.",
+          "long_description": "This definitive guide covers backend development using multiple technologies including Node.js, Python, and Go. You'll learn REST and GraphQL API design, database modeling with SQL and NoSQL, authentication strategies, microservices architecture, caching, message queues, and deployment strategies. The book includes performance optimization techniques and security best practices used by senior backend engineers.",
           "price": 99,
           "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
           "image_local": "/assets/images/10004.avif",
@@ -256,8 +256,8 @@
         {
           "id": "10006",
           "name": "Frontend Fastlane Plan With Projects",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "overview": "Accelerate your frontend career with this project-based learning path covering modern frameworks.",
+          "long_description": "This intensive program includes 12 real-world projects using React, Vue, and Svelte. Each project focuses on different aspects like state management, performance optimization, accessibility, and testing. You'll build a portfolio including an e-commerce site, dashboard application, social media clone, and interactive data visualization. Includes career advice and interview preparation materials.",
           "price": 99,
           "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
           "image_local": "/assets/images/10006.avif",
@@ -275,6 +275,44 @@
         "id": "-nJeFbZ"
       },
       "id": 1
+    },
+    {
+      "cartList": [
+        {
+          "id": "10001",
+          "name": "Basics To Advanced In React",
+          "overview": "Master React from the ground up with this comprehensive guide covering everything from JSX to advanced state management.",
+          "long_description": "This book takes you on a journey through React's core concepts and advanced patterns. You'll start with fundamentals like components and props, then progress to hooks, context API, and performance optimization. The second half covers real-world applications including authentication flows, testing strategies, and integrating with backend APIs. Packed with practical examples and best practices from industry experts.",
+          "price": 29,
+          "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10001.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": true
+        },
+        {
+          "id": "10002",
+          "name": "Django Framework for Beginners",
+          "overview": "Build robust web applications with Python using the Django framework - perfect for beginners.",
+          "long_description": "This beginner-friendly guide introduces Django's powerful features through hands-on projects. You'll learn to create models, views, templates, and forms while building a complete blog application. The book covers user authentication, ORM queries, REST APIs with Django REST framework, and deployment to production. Includes exercises and quizzes to reinforce your learning.",
+          "price": 19,
+          "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10002.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 2,
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 48,
+      "quantity": 2,
+      "user": {
+        "name": "Alex",
+        "email": "Alex@maiprosoft.com",
+        "id": "-nJeFbZ"
+      },
+      "id": 2
     }
   ],
   "users": [
